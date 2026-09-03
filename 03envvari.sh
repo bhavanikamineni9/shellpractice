@@ -1,1 +1,1 @@
-ech0 courser name is $COURSE_NAME
+echo courser name is $COURSE_NAME
