@@ -1,0 +1,1 @@
+ech0 courser name is $COURSE_NAME
