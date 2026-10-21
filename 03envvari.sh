@@ -1,1 +1,0 @@
-echo courser name is $COURSE_NAME
