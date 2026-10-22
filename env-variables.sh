@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $course ="devscops with aws"
+export $course ="devscops with aws"
